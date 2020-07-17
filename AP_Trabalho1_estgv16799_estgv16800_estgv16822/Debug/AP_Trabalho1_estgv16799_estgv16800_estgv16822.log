@@ -1,0 +1,12 @@
+﻿  Origem.cpp
+c:\users\asus\desktop\ap_trabalho1_estgv16799_estgv16800_estgv16822\ap_trabalho1_estgv16799_estgv16800_estgv16822\origem.cpp(1): warning C4005: '_CRT_SECURE_NO_WARNIGS': redefinição de macro
+  c:\users\asus\desktop\ap_trabalho1_estgv16799_estgv16800_estgv16822\ap_trabalho1_estgv16799_estgv16800_estgv16822\origem.cpp(1): note: argumentos de linha de comando:  consulte a definição anterior de '_CRT_SECURE_NO_WARNIGS'
+c:\users\asus\desktop\ap_trabalho1_estgv16799_estgv16800_estgv16822\ap_trabalho1_estgv16799_estgv16800_estgv16822\origem.cpp(150): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\asus\desktop\ap_trabalho1_estgv16799_estgv16800_estgv16822\ap_trabalho1_estgv16799_estgv16800_estgv16822\origem.cpp(356): warning C4477: 'fprintf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 3 tem o tipo 'char *'
+c:\users\asus\desktop\ap_trabalho1_estgv16799_estgv16800_estgv16822\ap_trabalho1_estgv16799_estgv16800_estgv16822\origem.cpp(393): warning C4101: 'lixo': variável local não referenciada
+c:\users\asus\desktop\ap_trabalho1_estgv16799_estgv16800_estgv16822\ap_trabalho1_estgv16799_estgv16800_estgv16822\origem.cpp(531): warning C4101: 'lixo': variável local não referenciada
+c:\users\asus\desktop\ap_trabalho1_estgv16799_estgv16800_estgv16822\ap_trabalho1_estgv16799_estgv16800_estgv16822\origem.cpp(576): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'long'
+c:\users\asus\desktop\ap_trabalho1_estgv16799_estgv16800_estgv16822\ap_trabalho1_estgv16799_estgv16800_estgv16822\origem.cpp(566): warning C4101: 'lixo': variável local não referenciada
+c:\users\asus\desktop\ap_trabalho1_estgv16799_estgv16800_estgv16822\ap_trabalho1_estgv16799_estgv16800_estgv16822\origem.cpp(564): warning C4101: 'j': variável local não referenciada
+  AP_Trabalho1_estgv16799_estgv16800_estgv16822.vcxproj -> C:\Users\Asus\Desktop\AP_Trabalho1_estgv16799_estgv16800_estgv16822\Debug\AP_Trabalho1_estgv16799_estgv16800_estgv16822.exe
+  AP_Trabalho1_estgv16799_estgv16800_estgv16822.vcxproj -> C:\Users\Asus\Desktop\AP_Trabalho1_estgv16799_estgv16800_estgv16822\Debug\AP_Trabalho1_estgv16799_estgv16800_estgv16822.pdb (Partial PDB)
